@@ -3,4 +3,5 @@
 I intend on tasking a graphics programming course and before I do so, this itroduction will help get introducce me to shaders, meshes, and 3D sofware used to model such as Blender
 ## DEV NOTES
 This was being developed on windows, hopefully switching to linux provides less of a head headache 19th-Jun
-I've finally swithced over to linux, the experiance is certainly smoother
+
+I've finally swithced over to linux, the experiance is certainly smoother 22nd-Jun
